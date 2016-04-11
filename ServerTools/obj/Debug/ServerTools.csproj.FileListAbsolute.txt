@@ -1,0 +1,4 @@
+C:\Users\Allan\Downloads\7dtd-ServerTools-master\7dtd-ServerTools-master\ServerTools\obj\Debug\ServerTools.csprojResolveAssemblyReference.cache
+C:\Users\Allan\Downloads\7dtd-ServerTools-master\7dtd-ServerTools-master\ServerTools\obj\Debug\ServerTools.dll
+C:\Users\Allan\Downloads\7dtd-ServerTools-master\7dtd-ServerTools-master\bin\Mods\ServerTools\ModInfo.xml
+C:\Users\Allan\Downloads\7dtd-ServerTools-master\7dtd-ServerTools-master\bin\Mods\ServerTools\ServerTools.dll
