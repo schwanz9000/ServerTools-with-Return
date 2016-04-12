@@ -14,9 +14,11 @@ These will allow the player to set and delete a return teleport point in the wor
 4.)Delete root/saves/ServerTools/ServerToolsConfig.xml<br>
 		-or to save your current settings-<br>
    Add the following line under the sethome settings. Set the delay to be the same as sethome (can be different).<br>
-```		
-<Tool Name="SetReturn" Enable="True" DelayBetweenSetReturnUses="0" />
+
 ```
+        <Tool Name="SetReturn" Enable="True" DelayBetweenSetReturnUses="0" />
+```
+
 5.)Delete root/saves/ServerTools/ServerToolsPhrases.xml.<br>
 6.)Restart server. The deleted files will be reinstalled and updated automatically. <br>
 7.)Reconfigure ServerToolsConfig.xml if you deleted it in step #4.<br>
