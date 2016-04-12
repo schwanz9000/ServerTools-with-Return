@@ -4,17 +4,18 @@ Go to https://github.com/dmustanger/7dtd-ServerTools/releases for the original f
 
 This mod changes the original ServerTools.dll by adding the following commands:<br>
 /setreturn /delreturn /return <br>
-These will allow the player to set/delete a retun teleport point in the world (or a second home).<br>
+These will allow the player to set and delete a return teleport point in the world (or a second home).<br>
 
-#Upgrading from the original Server Tools v2.2
+#If upgrading from the original Server Tools v2.2
 
-Stop the server
-Delete root/saves/ServerTools/ServerToolsConfig.xml<br>
+1.)Stop the server<br>
+2.)Download and extract the files.<br>
+3.)Replace ServerTools.dll in the Mods folder on the server with the one you just extraced.<br>
+2.)Delete root/saves/ServerTools/ServerToolsConfig.xml<br>
 		-or to save your current settings-<br>
-Add the following line under the sethome settings. Set the delay to be the same as sethome (can be different).<br>
+   Add the following line under the sethome settings. Set the delay to be the same as sethome (can be different).<br>
 		<Tool Name="SetReturn" Enable="True" DelayBetweenSetReturnUses="0" /><br>
-
-Delete root/saves/ServerTools/ServerToolsPhrases.xml<br>
+3.)Delete root/saves/ServerTools/ServerToolsPhrases.xml<br>
 
 # New Installation
 
