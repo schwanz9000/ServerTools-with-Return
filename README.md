@@ -1,5 +1,5 @@
 # 7dtd-ServerTools with /return function
-This is a branch of Server Tools v2.2  by Dmustanger<br>
+This is a branch of Server Tools v2.2 by dmustanger<br>
 Go to https://github.com/dmustanger/7dtd-ServerTools/releases for the original files.<br>
 
 This mod changes the original ServerTools.dll by adding the following commands:<br>
@@ -10,7 +10,7 @@ These will allow the player to set and delete a return teleport point in the wor
 
 1.)Stop the server<br>
 2.)Download and extract the files.<br>
-3.)Replace ServerTools.dll in the Mods folder on the server with the one you just extraced.<br>
+3.)Replace ServerTools.dll in the root/Mods/ServerTools folder on the server with the one you just extracted.<br>
 4.)Delete root/saves/ServerTools/ServerToolsConfig.xml<br>
 		-or to save your current settings-<br>
    Add the following line under the sethome settings. Set the delay to be the same as sethome (can be different).<br>
