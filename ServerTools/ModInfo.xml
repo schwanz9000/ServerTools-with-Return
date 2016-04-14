@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <xml>
   <ModInfo>
-    <Name value="Server Tools" />
+    <Name value="Server Tools with Return" />
     <Description value="Server tools for dedicated servers" />
-    <Author value="Dmustanger" />
-    <Version value="2.1" />
-    <Website value="https://github.com/dmustanger/7dtd-ServerTools" />
+    <Author value="dmustanger and schwanz9000" />
+    <Version value="1.0" />
+    <Website value="https://github.com/schwanz9000/ServerTools-with-Return" />
   </ModInfo>
 </xml>

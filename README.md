@@ -6,7 +6,7 @@ This mod changes the original ServerTools.dll by adding the following commands:<
 /setreturn /delreturn /return <br>
 These will allow the player to set and delete a return teleport point in the world (or a second home).<br>
 
-#If upgrading from the original Server Tools v2.2
+# If upgrading from the original Server Tools v2.2
 
 1.)Stop the server<br>
 2.)Download and extract the files.<br>
